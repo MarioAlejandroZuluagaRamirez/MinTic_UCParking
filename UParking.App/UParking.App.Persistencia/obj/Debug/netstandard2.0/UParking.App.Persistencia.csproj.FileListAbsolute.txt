@@ -1,0 +1,4 @@
+C:\Users\mazul\Desktop\Desarrollo de Software MinTic\C#\UParking\UParking.App\UParking.App.Persistencia\obj\Debug\netstandard2.0\UParking.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\mazul\Desktop\Desarrollo de Software MinTic\C#\UParking\UParking.App\UParking.App.Persistencia\obj\Debug\netstandard2.0\UParking.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\mazul\Desktop\Desarrollo de Software MinTic\C#\UParking\UParking.App\UParking.App.Persistencia\obj\Debug\netstandard2.0\UParking.App.Persistencia.AssemblyInfo.cs
+C:\Users\mazul\Desktop\Desarrollo de Software MinTic\C#\UParking\UParking.App\UParking.App.Persistencia\obj\Debug\netstandard2.0\UParking.App.Persistencia.csproj.CoreCompileInputs.cache

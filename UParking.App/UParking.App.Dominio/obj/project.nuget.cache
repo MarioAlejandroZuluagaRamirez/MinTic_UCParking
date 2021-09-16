@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "U2IFk/NUP75coOYzqjRE2Oww3eRpJmvvY6v/yloGcIKU1XxhK+ov7+IX9AGG8iGTKMzF3TxAOZmtjYFxfO9/Sg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mazul\\Desktop\\Desarrollo de Software MinTic\\C#\\UParking\\UParking.App\\UParking.App.Dominio\\UParking.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mazul\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mazul\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
